@@ -13,7 +13,7 @@ Alongside building this application, I also learn how to:
 
 
 ## Demo Website
-:point_right: [https://ai-image-generation-app-mern.vercel.app/](https://ai-image-generation-app-mern.vercel.app/G)
+:point_right: [https://ai-image-generation-app-mern.vercel.app/](https://ai-image-generation-app-mern.vercel.app/)
 
 ## Video Demo
 :point_right:  [https://drive.google.com/file/d/1Zlr2TRg0wLSXpcLUzRpdRxhYbA-6Z-cp/view?usp=sharing](https://drive.google.com/file/d/1Zlr2TRg0wLSXpcLUzRpdRxhYbA-6Z-cp/view?usp=sharing)
